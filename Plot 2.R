@@ -19,7 +19,7 @@ plot(Date_Time, GlobalActivePower,
      type= 'l', # Se selecciona el tipo de lineas, en ?plot aparecen varios tipos
      xlab="", # Se deja sin espacio
      ylab="Global Active Power (kilowatts)") #Se traza la etiqueta del eje "y"
-dev.off() # Se concluye la acción de guardado
+dev.off() # Se concluye la instrucción
 
 
 
