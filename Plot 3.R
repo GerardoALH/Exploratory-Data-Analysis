@@ -37,6 +37,6 @@ legend("topright", #Se dibujan las etiquetas (topright = arriba a la derecha)
        lwd=2.5, 
        col=c("black", "red", "blue")) #Se colorean las etiquetas con un vector. Se colorea según el orden de los atributos dibujados
 
-dev.off()
+dev.off() #Se concluye la instrucción
 
 

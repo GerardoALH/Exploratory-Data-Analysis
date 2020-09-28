@@ -30,7 +30,7 @@ hist(globalActivePower,
      main="Global Active Power", # Titulo de la gráfica
      xlab="Global Active Power (kilowatts)") #etiqueta del gráfico en el eje "x"
 
-dev.off() # se cierra el proceso de guardado.
+dev.off() #Se concluye la instrucción
 
 
 
